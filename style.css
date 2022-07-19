@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: Brush Script MT;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    font-family: papyrus;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.orange {
+    color: orange;
+    font-size: larger;
+}
+
+.instructions p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:violet;
+}
+
+.bigger {
+    font-size: xx-large;
+}
+
+.big {
+    font-size: x-large;
+}
+
+.normal {
+    font-size: smaller;
+}
+body {
+    background-color: dimgray;
+    color: gold;
+}
+
+#great {
+    font-size: xx-large;
+}
+
+footer {
+    text-align: right;
+}
